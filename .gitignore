@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+build/
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+conan_deps/
+CMakeUserPresets.json
+CMakePresets.json
+compile_commands.json
+detect_cuda_version.cc
+detect_cuda_compute_capability.cu
+Makefile
